@@ -1,6 +1,6 @@
 # Romain Corseri
 
-Senior Data Scientist, currenlty in a consulting role for development of RAG, agent harness and evaluation framework.
+Senior Data Scientist, currently in a consulting role for development of RAG, agent harness and evaluation framework.
 Currently at CEGAL AS.
 
 - Github: https://github.com/rcorseri
